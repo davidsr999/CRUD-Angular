@@ -1,0 +1,6 @@
+
+.text-danger {
+    background-color: rgb(231, 160, 160);
+    border: 1px red solid;
+    border-radius: 5px;
+}
